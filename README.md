@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working on **Music Player**.
-## 📫 How to reach me: **HuoH#9699** on Discord.
+* 🔭 I’m currently working on **Music Player**.
+* 📫 How to reach me: **HuoH#9699** on Discord.
 
 <!--
 **YumingHuo/YumingHuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
