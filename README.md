@@ -1,6 +1,6 @@
 ### Hi there 👋 I am @YumingHuo
 
-* 🔭 I’m currently working on **Music Player**.
+* 🔭 I’m currently working on **shopping platform**.
 * 📫 How to reach me: **HuoH#6966** on Discord.
 
 <!--
