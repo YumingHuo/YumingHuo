@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am @YumingHuo
 
 * 🔭 I’m currently working on **Music Player**.
 * 📫 How to reach me: **HuoH#9699** on Discord.
