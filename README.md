@@ -1,6 +1,6 @@
 ### Hi there 👋 I am @YumingHuo
 
-* 🔭 I’m currently working on **My group project**.
+* 🔭 I’m currently working on **plant pests**.
 * 📫 How to reach me: **HuoH#6966** on Discord.
 
 <!--
