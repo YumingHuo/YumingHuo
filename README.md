@@ -1,6 +1,6 @@
 ### Hi there 👋 I am @YumingHuo
 
-* 🔭 I’m currently working on **My own website**.
+* 🔭 I’m currently working on **iosGame**.
 * 📫 How to reach me: **HuoH#6966** on Discord.
 
 <!--
