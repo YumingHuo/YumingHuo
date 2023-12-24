@@ -1,6 +1,6 @@
 ### Hi there 👋 I am @YumingHuo
 
-* 🔭 I’m currently working on **ml**.
+* 🔭 I’m currently working on **Machine_Learning**.
 * 📫 How to reach me: **HuoH#6966** on Discord.
 
 <!--
