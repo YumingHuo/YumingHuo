@@ -1,6 +1,6 @@
 ### Hi there 👋 I am @YumingHuo
 
-* 🔭 I’m currently working on **Vue3**.
+* 🔭 I’m currently working on **Individual Project**.
 * My personal website URL is **https://yuminghuo.github.io/**.
   
 <br>
