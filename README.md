@@ -5,7 +5,7 @@
   
 <br>
 
-* **Thanks to James for lots of coding help!**.
+* **Thanks to James for lots of coding help!**
 
 <!-- * 📫 How to reach me: **HuoH#6966** on Discord. -->
 
