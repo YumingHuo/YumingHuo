@@ -1,12 +1,13 @@
 ### Hi there 👋 I am @YumingHuo
-
+<!--
 * 🔭 I’m currently working on **Individual Project**.
 * My personal website URL is **https://yuminghuo.github.io/**.
+-->
   
 <br>
-
+<!--
 * **Thanks to James for lots of coding help!**
-
+-->
 <!-- * 📫 How to reach me: **HuoH#6966** on Discord. -->
 
 <!--
