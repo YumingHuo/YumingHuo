@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuming</h1>
 
-- 🔭 I’m currently working on **Master Project**
+- 🔭 I’m currently **Open to Work**!
 
 - 📫 How to reach me **hym811@outlook.com**
 
